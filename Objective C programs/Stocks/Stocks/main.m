@@ -44,7 +44,7 @@ int main(int argc, const char * argv[])
         [stock5 setCurrentSharePrice:33.00];
         [stock5 setPurchaseSharePrice:25.87];
         
-        NSMutableArray * stocks = [[NSMutableArray alloc] init];
+        NSMutableArray *stocks = [[NSMutableArray alloc] init];
         
         [stocks addObject:stock1];
         [stocks addObject:stock2];
